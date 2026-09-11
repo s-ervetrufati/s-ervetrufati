@@ -32,14 +32,6 @@ Various small-scale applications experimenting with automation, data handling, a
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-ervetrufati&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ervetrufati&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🧠 Currently Learning
 
 - Advanced Python for Data Science
