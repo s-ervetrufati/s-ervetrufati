@@ -1,51 +1,48 @@
-# 𝕊𝔼ℝ𝕍𝔼𝕋
+<div align="center">
 
-> 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 & 𝘈𝘐 𝘋𝘶𝘢𝘭 𝘚𝘵𝘶𝘥𝘦𝘯𝘵 | 𝘚𝘦𝘭𝘧-𝘵𝘢𝘶𝘨𝘩𝘵 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 | 𝘗𝘊 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵
+<img src="assets/banner.svg" alt="Servet: dual study student in Data Science and AI, self-taught developer" width="100%">
 
----
+</div>
 
-## ◤ About Me ◢
+## About
 
-Started my tech journey by fixing broken hardware and optimizing old laptops to run games better. That curiosity led me to create Windows tutorials, help friends and family with IT issues, and eventually dive into programming.
+I started in tech by repairing broken hardware and tuning old laptops so they could run games better. That curiosity led to Windows tutorials, helping friends and family with IT problems, and eventually to programming.
 
-Currently pursuing a **Dual Study program in Data Science and AI** in Germany, bridging hands-on experience with formal education.
+I'm now in a dual study program in Data Science and AI in Germany, which lets me combine hands-on work with formal education.
 
----
+## Tech stack
 
-## ⚡ Tech Stack
+**Languages**
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Python · Java · SQL · C++ |
-| **Focus** | Data Science · AI · Game Development |
-| **Tools** | Greenfoot · Python Libraries · Git |
+![Python](https://img.shields.io/badge/Python-13265f?style=flat-square&labelColor=13265f&color=13265f&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-13265f?style=flat-square&labelColor=13265f&color=13265f&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-13265f?style=flat-square&labelColor=13265f&color=13265f) ![C++](https://img.shields.io/badge/C%2B%2B-13265f?style=flat-square&labelColor=13265f&color=13265f&logo=cplusplus&logoColor=white)
 
----
+**Tools**
 
-## 🎯 Projects
+![Git](https://img.shields.io/badge/Git-13265f?style=flat-square&labelColor=13265f&color=13265f&logo=git&logoColor=white) ![Greenfoot](https://img.shields.io/badge/Greenfoot-13265f?style=flat-square&labelColor=13265f&color=13265f)
 
-### ▸ Multi-Level Game (Java/Greenfoot)
-Built a game featuring both single-player and local multiplayer modes using the Greenfoot framework. Explored game logic, collision detection, and user interaction design.
+**Focus areas:** Data Science, AI, game development
 
-### ▸ Python Mini-Projects
-Various small-scale applications experimenting with automation, data handling, and problem-solving.
+## Projects
 
----
+| Project | What it does | Built with |
+|---------|--------------|------------|
+| [**Mitternacht**](https://github.com/YOUR-USERNAME/mitternacht) | Local web app that finds the middle of the night between Maghrib and Fajr, shown on an animated 24-hour dial | Python (standard library only), HTML, CSS, JavaScript |
+| **Multi-level game** | Single-player and local multiplayer game with game logic, collision detection and user interaction design | Java, Greenfoot |
+| **Python mini-projects** | Small applications experimenting with automation, data handling and problem solving | Python |
 
-## 🧠 Currently Learning
+## Currently learning
 
 - Advanced Python for Data Science
 - SQL and database management
-- Machine Learning fundamentals
+- Machine learning fundamentals
 
----
+## Connect
 
-## 📬 Connect
+I'm open to connecting with fellow developers, sharing knowledge and tracking progress together.
 
-Open to connecting with fellow developers, sharing knowledge, and tracking progress together.
+<!-- Add your links here, for example:
+[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) -->
 
----
-
-<p align="center">
-<em>Last updated: September 2026</em>
-</p>
+<div align="center">
+<sub>Last updated: October 2026</sub>
+</div>
