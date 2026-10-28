@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Servet: dual study student in Data Science and AI, self-taught developer" width="100%">
+# Servet
 
 </div>
 
